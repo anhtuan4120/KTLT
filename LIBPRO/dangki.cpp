@@ -12,3 +12,4 @@ dangki::~dangki()
 {
     delete ui;
 }
+a
